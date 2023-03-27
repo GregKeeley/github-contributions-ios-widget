@@ -65,9 +65,9 @@ public extension Color {
     
     // MARK: - Rainbow Theme
     
-    static let rainbowLevel1 = Color("RainbowLevel1", bundle: .module)
-    static let rainbowLevel2 = Color("RainbowLevel2", bundle: .module)
-    static let rainbowLevel3 = Color("RainbowLevel3", bundle: .module)
-    static let rainbowLevel4 = Color("RainbowLevel4", bundle: .module)
+    static let rainbowLevel1 = Color("RainbowLevel1", bundle: .main)
+    static let rainbowLevel2 = Color("RainbowLevel2", bundle: .main)
+    static let rainbowLevel3 = Color("RainbowLevel3", bundle: .main)
+    static let rainbowLevel4 = Color("RainbowLevel4", bundle: .main)
     
 }
