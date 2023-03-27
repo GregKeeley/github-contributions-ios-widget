@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		378F1FAA29C0C2AD007EB559 /* UIColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F1FA929C0C2AD007EB559 /* UIColorExtensions.swift */; };
 		7702E18A25CF2DC9003ECC3D /* ContributionsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7702E18925CF2DC9003ECC3D /* ContributionsList.swift */; };
 		771E3B54253CEB7600984A0B /* ArrayExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 771E3B4E253CEADD00984A0B /* ArrayExtensions.swift */; };
 		771E3B5A253CEBCE00984A0B /* DateExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 771E3B59253CEBCE00984A0B /* DateExtensions.swift */; };
@@ -82,6 +83,7 @@
 		1CC490D52819102200C3EC87 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1CC490D62819102200C3EC87 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
 		1CC490D72819102200C3EC87 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = ja; path = ja.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		378F1FA929C0C2AD007EB559 /* UIColorExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtensions.swift; sourceTree = "<group>"; };
 		7702E18925CF2DC9003ECC3D /* ContributionsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContributionsList.swift; sourceTree = "<group>"; };
 		771E3B4E253CEADD00984A0B /* ArrayExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayExtensions.swift; sourceTree = "<group>"; };
 		771E3B59253CEBCE00984A0B /* DateExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtensions.swift; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				771E3B4E253CEADD00984A0B /* ArrayExtensions.swift */,
 				771E3B59253CEBCE00984A0B /* DateExtensions.swift */,
 				771E3BB8253E440500984A0B /* ThemeExtensions.swift */,
+				378F1FA929C0C2AD007EB559 /* UIColorExtensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -455,6 +458,7 @@
 				771E3BB9253E440500984A0B /* ThemeExtensions.swift in Sources */,
 				771E3BA9253E423700984A0B /* GitHubContributionsGraphWidget.swift in Sources */,
 				771E3B54253CEB7600984A0B /* ArrayExtensions.swift in Sources */,
+				378F1FAA29C0C2AD007EB559 /* UIColorExtensions.swift in Sources */,
 				77BF7ACF2543537E006DA340 /* GitHubContributionsViewModel.swift in Sources */,
 				77BF7AE725435FB1006DA340 /* GitHubContributionsGraphWidgetView.swift in Sources */,
 				77A722DA2546620600B6064B /* GitHubContributionsWidget.intentdefinition in Sources */,

@@ -65,6 +65,16 @@
 					<key>INEnumValueName</key>
 					<string>purple</string>
 				</dict>
+				<dict>
+					<key>INEnumValueDisplayName</key>
+					<string>Rainbow</string>
+					<key>INEnumValueDisplayNameID</key>
+					<string>QzX0Oh</string>
+					<key>INEnumValueIndex</key>
+					<integer>5</integer>
+					<key>INEnumValueName</key>
+					<string>rainbow</string>
+				</dict>
 			</array>
 		</dict>
 	</array>
@@ -73,11 +83,11 @@
 	<key>INIntentDefinitionNamespace</key>
 	<string>88xZPY</string>
 	<key>INIntentDefinitionSystemVersion</key>
-	<string>20G95</string>
+	<string>22D68</string>
 	<key>INIntentDefinitionToolsBuildVersion</key>
-	<string>12E262</string>
+	<string>14C18</string>
 	<key>INIntentDefinitionToolsVersion</key>
-	<string>12.5</string>
+	<string>14.2</string>
 	<key>INIntents</key>
 	<array>
 		<dict>

@@ -27,6 +27,7 @@ public extension Color {
     }
 
     static var emptyTile: Color {
+        // TODO: Empty tiles here can be colored differently to highlight days where no contributions have been made.
         Color(.init { trait in
             trait.userInterfaceStyle == .dark
                 ? UIColor.quaternarySystemFill
@@ -61,4 +62,12 @@ public extension Color {
     static let purpleLevel2 = Color("PurpleLevel2", bundle: .module)
     static let purpleLevel3 = Color("PurpleLevel3", bundle: .module)
     static let purpleLevel4 = Color("PurpleLevel4", bundle: .module)
+    
+    // MARK: - Rainbow Theme
+    
+    static let rainbowLevel1 = Color("RainbowLevel1", bundle: .module)
+    static let rainbowLevel2 = Color("RainbowLevel2", bundle: .module)
+    static let rainbowLevel3 = Color("RainbowLevel3", bundle: .module)
+    static let rainbowLevel4 = Color("RainbowLevel4", bundle: .module)
+    
 }
